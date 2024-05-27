@@ -1,6 +1,6 @@
 ## Hello folks! I'm Wojciech! 👋
 🙋🏼‍♂️ I'm a passionate web developer specializing in frontend development.<br>
-🎓 I hold a degree in [Automation and Robotics](https://weaii.po.edu.pl/automatic-control-and-robotics/?lang=en) in Opole University of Technology.<br>
+🎓 I hold a degree in [Automation and Robotics](https://weaii.po.edu.pl/automatic-control-and-robotics/?lang=en) from Opole University of Technology.<br>
 🤖 After a few years of working as a robotics specialist, I switched to web development, which I have been doing since 2022.<br>
 💼 I work in the e-commerce industry, primarily on platforms like [AtomStore](https://www.atomstore.pl/) (RWD & PWA) and [Shopify](https://www.shopify.com/).<br>
 📚 Currently, I'm honing my skills in Vue.js and Tailwind CSS. Additionally, I'm enhancing my proficiency in English through [Preply](https://preply.com/).<br>
@@ -20,7 +20,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Current Project
-🧑🏼‍💻 Outside of work, I'm actively developing a project called [🍊 HappyBelly](https://github.com/wojciechmuszala/vue-happy-belly) using Vue.js and styling it with Tailwind CSS. App is a recipe repository with a weekly meal planner. You can track the progress of the project and learn more about it by clicking on its name mentioned in the first sentence.
+🧑🏼‍💻 Outside of work, I'm actively developing a project called [🍊 HappyBelly](https://github.com/wojciechmuszala/vue-happy-belly) using Vue.js and styling it with Tailwind CSS. This app is a recipe repository with a weekly meal planner. You can track the progress of the project and learn more about it by clicking on its name!
 
 ## Get in Touch
 📫 Feel free to reach out to me if you have any questions, suggestions, or just want to connect! You can find me on [LinkedIn](https://www.linkedin.com/in/wojciech-muszala-04911b208/).
