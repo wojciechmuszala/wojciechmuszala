@@ -4,7 +4,6 @@
 🤖 After a few years of working as a robotics specialist, I switched to web development, which I have been doing since 2022.<br>
 💼 I work in the e-commerce industry, primarily on platforms like [AtomStore](https://www.atomstore.pl/) and [Shopify](https://www.shopify.com/).<br>
 📚 Currently, I'm honing my skills in Vue.js and Tailwind CSS. Additionally, I'm enhancing my proficiency in English through [Preply](https://preply.com/).<br>
-🚀 In the future, I aim to develop my own headless frontend based on Shopware [Composable Frontends](https://frontends.shopware.com/), leveraging technologies such as Vue3, Vite, Nuxt3, and unocss/Tailwind CSS.
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
