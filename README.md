@@ -19,6 +19,11 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## Platforms
+![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![AtomStore](https://img.shields.io/badge/AtomStore-ff0000?style=for-the-badge&logo=atomstore&logoColor=white&labelColor=#ff0102&color=white)
+
 <!--
 ## Current Project
 🧑🏼‍💻 Outside of work, I'm actively developing a project called [🍊 HappyBelly](https://github.com/wojciechmuszala/vue-happy-belly) using Vue.js and styling it with Tailwind CSS. This app is a recipe repository with a weekly meal planner. You can track the progress of the project and learn more about it by clicking on its name!
