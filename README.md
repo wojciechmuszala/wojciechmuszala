@@ -3,7 +3,7 @@
 🎓 I hold a degree in [Automation and Robotics](https://weaii.po.edu.pl/automatic-control-and-robotics/?lang=en) from Opole University of Technology.<br>
 🤖 After a few years of working as a robotics specialist, I switched to web development, which I have been doing since 2022.<br>
 💼 I work in the e-commerce industry, primarily on platforms like [AtomStore](https://www.atomstore.pl/) and [Shopify](https://www.shopify.com/).<br>
-📚 Currently, I'm honing my skills in Vue.js and Tailwind CSS. Additionally, I'm enhancing my proficiency in English through [Preply](https://preply.com/).<br>
+📚 Currently, I'm honing my skills in [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/). Additionally, I'm enhancing my proficiency in English through [Preply](https://preply.com/).<br>
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
