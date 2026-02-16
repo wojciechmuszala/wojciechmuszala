@@ -1,9 +1,10 @@
 ## Hello folks! I'm Wojciech! 👋
-🙋🏼‍♂️ I'm a passionate web developer specializing in frontend development.<br>
-🎓 I hold a degree in [Automation and Robotics](https://weaii.po.edu.pl/automatic-control-and-robotics/?lang=en) from Opole University of Technology.<br>
-🤖 After a few years of working as a robotics specialist, I switched to web development, which I have been doing since 2022.<br>
-💼 I work in the e-commerce industry, primarily on platforms like [Shopify](https://www.shopify.com/) and [AtomStore](https://www.atomstore.pl/).<br>
-📚 Currently, I'm honing my skills in [React](https://react.dev/) and [Tailwind CSS](https://tailwindcss.com/). Additionally, I'm enhancing my proficiency in English through [Preply](https://preply.com/).<br>
+
+🙋🏼‍♂️ I'm a passionate web developer specializing in frontend development.</br>
+🎓 I hold a degree in [Automation and Robotics](https://weaii.po.edu.pl/automatic-control-and-robotics/?lang=en) from Opole University of Technology.</br>
+🤖 After a few years of working as a robotics specialist, I switched to web development, which I have been doing since 2022.</br>
+💼 I work in the e-commerce industry, focusing exclusively on [Shopify](https://www.shopify.com/).</br>
+📚 Currently, I'm expanding my skills into Shopify backend development, including checkout customizations with [Shopify Functions](https://shopify.dev/docs/apps/functions) and building custom apps using [Shopify App Development](https://shopify.dev/docs/apps).</br>
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,8 +18,10 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-1A1A1A.svg?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Jira](https://img.shields.io/badge/jira-%231968DC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black)
 
 ## Platforms
 ![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
